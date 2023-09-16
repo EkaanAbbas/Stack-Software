@@ -1,0 +1,36 @@
+/* CarosualComponent.module.css */
+
+.cardWithBackground1 {
+    background-color: #b8d8d8;
+    border: 5px;
+}
+
+.cardWithBackground2 {
+    background-color: #d5e5a3;
+    border: 5px;
+}
+
+.cardWithBackground3 {
+    background-color: #ffe28c;
+    border: 5px;
+}
+
+.cardWithBackground4 {
+    background-color: #d6c1ab;
+    border: 5px;
+}
+
+.cardWithBackground5 {
+    background-color: #baa9ba;
+    border: 5px;
+}
+
+.cardWithBackground6 {
+    background-color: #fdcec6;
+    border: 5px;
+}
+
+.cardCol {
+    margin-bottom: 20px;
+    /* Add margin between cards if desired */
+}

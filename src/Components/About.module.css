@@ -1,0 +1,38 @@
+.about {
+    background-color: black;
+    margin-top: 10%;
+    padding: 30px;
+    color: white;
+}
+
+.aboutimg {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.bg {
+    background-color: black;
+    width: 100%;
+}
+
+.aboutimg {
+    height: 90%;
+    border-radius: 5%;
+}
+
+.abouttxt {
+    text-align: left;
+}
+
+.aboutpara {
+    text-align: left;
+    margin-top: 50px;
+    letter-spacing: 0.5px;
+    color: grey;
+}
+
+.aboutwho {
+    margin-top: 20px;
+    text-align: center;
+}

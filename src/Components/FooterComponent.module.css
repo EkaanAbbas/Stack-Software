@@ -1,0 +1,10 @@
+.footerbg {
+    background-color: black;
+    color: white;
+    margin-top: 10%;
+    padding: 40px;
+}
+
+.listItems {
+    list-style: none;
+}
